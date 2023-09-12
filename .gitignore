@@ -1,7 +1,8 @@
 homicidios.xlsx
 lesiones.xlsx
 .~lock*
-*.png
-*.jpg
+src/lock
 readme_task.md
 videos1.md
+*.pdf
+*.html
